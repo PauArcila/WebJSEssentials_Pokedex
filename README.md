@@ -1,4 +1,4 @@
-# WebEssentials_Pokedex
+# WebJSEssentials_Pokedex
 Evaluación de conceptos sobre construcción de sitio web interactivo
 
 Para la construcción de este sitio se utilizaron los siguientes elementos:
