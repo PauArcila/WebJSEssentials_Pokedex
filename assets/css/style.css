@@ -1,0 +1,84 @@
+body {
+  font-family: 'Open Sans';
+  padding-top: 60px; /*ancho del nav*/
+  background-image: url("../img/goldenPicachu.jpg");
+  background-repeat: repeat-y;
+  background-size: 100%;
+}
+
+.navbar-brand img{
+  width: 12em;
+}
+.navbar-nav * {
+  text-align: right;
+}
+
+:root{
+  --main-bg-color: #EF5350;
+}
+.red{
+  background-color: var(--main-bg-color); /*cambió a rojo #EF5350 =RGBA(239, 83, 80, 1)*/
+}
+
+footer img{
+  width: 5em;
+  padding: 1px;
+}
+
+.tarjeta{
+  width: 100%;
+  height: auto;/*25em;*/
+}
+
+#nombre{
+  font-family: 'Paytone One', sans-serif;
+  color: blue;
+  font-size: 2.5em;
+}
+
+#foto{
+  height: 195px;
+  width: 195px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contenedor{
+  width: 100px;
+  height: 100px;
+}
+
+.mensaje {
+  font-family: 'Paytone One', sans-serif;
+  color: #ffff80;
+  vertical-align: bottom;
+  font-weight: normal;
+  font-size: 1.5em;
+}
+
+.textoGrafico {
+  font-family: 'Paytone One', sans-serif;
+  color: blue;
+}
+
+#card2 *{
+  font-family: 'Paytone One', sans-serif;
+  color: blue;
+}
+/*
+canvas *{
+  width: 100%;
+  height: auto;
+}*/
+
+.canvasjs-chart-canvas{
+  width: 100%;
+  height: auto;
+  padding-top: 20px;
+}
+
+/* 
+font-family: 'Lalezar', cursive;
+font-family: 'Francois One', sans-serif;
+font-family: 'Baloo Paaji 2', cursive;
+font-family: 'Paytone One', sans-serif;*/
